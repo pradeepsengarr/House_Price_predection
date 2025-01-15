@@ -4,7 +4,7 @@ Overview
 
 This project is a machine learning model designed to predict house prices based on various features such as location, size, number of bedrooms, bathrooms, and total square footage. The dataset used for this project is from Kaggle, and the implementation leverages Python and several key libraries including Pandas, NumPy, Matplotlib, and Scikit-learn.
 
-Steps Followed
+Steps Followed 
 
 1. Data Import and Exploration
 
